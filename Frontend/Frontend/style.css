@@ -1,0 +1,11 @@
+.contenedor {
+    width: 300px; /* Ancho deseado del contenedor */
+    margin: 0 auto; /* Para centrar horizontalmente */
+    padding: 20px; /* Añade relleno para separar el contenido del borde */
+    border-radius: 10px; /* Agrega esquinas redondeadas */
+    background-color: #f0f0f0; /* Color de fondo del contenedor */
+}
+
+.center {
+    text-align: center;
+}
